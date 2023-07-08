@@ -120,8 +120,8 @@ main{
 .about{
  padding:  130px;
  background-color: #fff8f3;
- border: 386px;
- margin-top: 130px;
+ border-radius: 10px;
+ margin: 130px 0;
 }
 .about-info-container{
     display:flex;
@@ -129,4 +129,7 @@ main{
 }
 .about-info{
     text-align: center;
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
